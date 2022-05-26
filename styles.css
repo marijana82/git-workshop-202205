@@ -1,5 +1,6 @@
 p {
     color: red;
+    background-color: #ffee00;
 }
 
 h1 {
@@ -12,4 +13,9 @@ h2 {
 
 li {
     color: #009900;
+}
+
+.description {
+    color: #404040;
+    background-color: #aaffaa;
 }
