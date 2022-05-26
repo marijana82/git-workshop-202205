@@ -9,6 +9,7 @@ h1 {
 
 h2 {
     color: #990099;
+    background-color: #aaffaa;
 }
 
 li {
@@ -18,4 +19,12 @@ li {
 .description {
     color: #404040;
     background-color: #aaffaa;
+}
+
+nav {
+    background-color: #0000cc;
+}
+
+li {
+    color: whitesmoke;
 }
